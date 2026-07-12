@@ -1,4 +1,4 @@
-Excel Sales Analytics
+Sales Analytics
 
 This repository contains Business Intelligence and Sales Analytics reports created using Excel/Power BI for AtliQ Hardware. The reports provide insights into sales, profitability, customer growth, and market performance.
 
